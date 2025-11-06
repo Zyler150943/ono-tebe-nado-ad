@@ -143,6 +143,7 @@ header {
     font-size: 22px;
     font-weight: normal;
     margin-left: 107px;
+    text-transform: uppercase;
 }
 
 /* Секция с карточками */
@@ -261,7 +262,7 @@ header {
 }
 
 .about__column p:nth-child(2) {
-    margin-top: 5px;
+    margin-top: 6px;
     margin-bottom: 24px;
 }
 
