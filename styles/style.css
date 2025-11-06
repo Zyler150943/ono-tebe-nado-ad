@@ -10,6 +10,8 @@ header {
     font-family: 'Raleway',sans-serif;
     font-size: 18px;
     font-weight: normal;
+    text-decoration-skip-ink: none;
+    text-underline-offset: 0.2em;
 }
 
 .header__menu {
@@ -48,6 +50,7 @@ header {
     justify-self: end;
     margin-right: 50px;
     font-style: normal;
+    line-height: 24px;
 }
 
 /* Обложка страницы */
@@ -294,10 +297,13 @@ footer {
     font-family: 'Raleway',sans-serif;
     font-size: 18px;
     font-weight: normal;
+    text-decoration-skip-ink: none;
+    text-underline-offset: 0.2em;
 }
 
 .footer__address {
     font-style: normal;
+    line-height: 24px;
 }
 
 .footer__menu-list {
